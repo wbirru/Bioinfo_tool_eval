@@ -1,7 +1,9 @@
 ```
-streamlit
-pandas
+streamlit 
 requests
-networkx
-matplotlib
+pandas 
+networkx 
+matplotlib.pyplot 
+urllib.parse
+datetime
 ```

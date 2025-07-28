@@ -3,6 +3,5 @@ requests
 pandas 
 networkx 
 matplotlib
-urllib
 datetime
 
